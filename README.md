@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Michealkz</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate bigdata developer from China</h3>
 
 <h3 align="left">Connect with me: michealkz</h3>
 <p align="left">
