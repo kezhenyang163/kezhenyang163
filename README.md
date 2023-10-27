@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Michealkz</h1>
 <h3 align="center">A passionate bigdata developer from China</h3>
 
