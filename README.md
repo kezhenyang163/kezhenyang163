@@ -19,6 +19,6 @@
 ![](https://img.shields.io/badge/Hudi-C045E0)
 ![](https://img.shields.io/badge/java-E06E45)
 
-[![Michealkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezhenyang163)](https://github.com/kezhenyang163/github-readme-stats)
+-- [![Michealkz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezhenyang163)](https://github.com/kezhenyang163/github-readme-stats)
 
 
